@@ -97,7 +97,11 @@ Acceptance criteria are conditions that a feature must meet to be accepted by th
 - Be specific and measurable.
 - Include functional and non-functional aspects.
 
-- Example for Checkout page in a Booking System includes: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+### Example for Checkout page in a Booking System includes: 
+- Users should be able to select available dates
+- Confirm booking, and receive a confirmation email within 2 minutes.
+- Make payments
+- Cancel booking
 
 ### Benefits of Acceptance Criteria:
 - Ensures all parties have a clear understanding of feature requirements.
